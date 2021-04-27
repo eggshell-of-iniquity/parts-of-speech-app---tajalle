@@ -218,8 +218,9 @@ let pronounPaladin = sprites.create(img`
     . . . f f f f f f f f . . . . . 
     . . . . . f f . . f f . . . . . 
     `, SpriteKind.Player)
-sentenceSquire.setPosition(0, 0)
-nounNoble.setPosition(0, 0)
-verbVanguard.setPosition(0, 0)
-adjectiveAristocrat.setPosition(0, 0)
-pronounPaladin.setPosition(0, 0)
+sentenceSquire.setPosition(77, 20)
+nounNoble.setPosition(92, 78)
+verbVanguard.setPosition(41, 70)
+adjectiveAristocrat.setPosition(141, 76)
+pronounPaladin.setPosition(24, 97)
+let sentence = ""
